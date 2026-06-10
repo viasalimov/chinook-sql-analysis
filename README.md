@@ -34,7 +34,7 @@ Joined `Employee → Customer → Invoice` via `SupportRepId`, filtering to `Tit
 
 ![Revenue by employee](images/q1_employee_sales.png)
 
-Jane Peacock leads with \~$833 in sales, followed by Margaret Park (~$775) and Steve Johnson (~$720) — a fairly even spread across the three-person sales team.
+Jane Peacock leads with \~$833 in sales, followed by Margaret Park (\~$775) and Steve Johnson (\~$720) — a fairly even spread across the three-person sales team.
 
 ### Which media format sells the most?
 
