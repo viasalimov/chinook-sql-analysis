@@ -67,9 +67,9 @@ chinook-sql-analysis/
 ├── README.md
 ├── chinook_analysis.sql
 └── images/
-    ├── schema.png
     ├── q1_employee_sales.png
     ├── q2_mediatype_sales.png
     ├── q3_country_by_month.png
-    └── q4_playlist_sizes.png
+    ├── q4_playlist_sizes.png
+    └── schema.png
 ```
